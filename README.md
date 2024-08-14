@@ -1,4 +1,4 @@
-# KickStarter_Croudfunding_project
+# KickStarter_Crowdfunding_Project
 This project involves an in-depth analysis of Kickstarter crowdfunding campaigns using power Bi, tableau, excel and SQL   . The dashboard visualizes various key metrics and insights, including:
 
 Project Outcomes by State: A bar chart showing the total number of projects categorized by their final outcome (e.g., successful, failed, canceled).
